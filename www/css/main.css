@@ -1,0 +1,14 @@
+#footer
+{
+    position : absolute;
+    bottom : 0;
+    width : 100%;
+
+}
+
+#comment
+{
+    max-height:100px;
+    min-height:100px; 
+    resize: none;
+}
